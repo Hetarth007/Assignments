@@ -1,1 +1,19 @@
-test
+Key Programming Activities Covered:
+Input/Output:
+
+Reading user input using input().
+Displaying output using print().
+Control Flow:
+
+Using if-elif-else statements to determine the operation to perform.
+Checking for division by zero.
+Loops:
+
+Using a while loop to allow multiple calculations until the user decides to stop.
+Functions:
+
+Defining functions for each arithmetic operation (add, subtract, multiply, divide).
+Simple Data Structures:
+
+Using basic data types like float for numbers and str for user input.
+This program provides a straightforward example of how to perform key programming activities in Python.
